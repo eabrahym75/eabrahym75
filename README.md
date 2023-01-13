@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eabrahym75
-- 👀 I’m interested in Data Aanlytics and Data Science
+- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @eabrahym75 on Twitter
