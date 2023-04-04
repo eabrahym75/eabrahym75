@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @eabrahym75
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Data analytics
-- 💞️ I’m looking to collaborate on projects
+## Welcome
+- 👋 Hi, I’m eabrahym75
+- 👀 I’m a Pharmacist and Bioinformatics enthusiast focusing on Oncology Drug Design
+- 🌱 I’m currently learning DevOps and Networking.
+- 💞️ I would love to contribute to Open source projects, I’m looking to collaborate on DevOps projects
 - 📫 How to reach me @eabrahym75 on Twitter
 
 <!---
