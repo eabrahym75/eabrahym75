@@ -1,5 +1,5 @@
 ## Welcome
-<h1 align="center">Hi 👋, I'm Ibraheem Kehinde</h1>
+<h1 align="center">Hi 👋, I'm Ibraheem Ayantola</h1>
 <h3 align="center">A passionate DevOps Engineer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eabrahym75" alt="eabrahym75" /></a> </p>
