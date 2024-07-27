@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MERN PROJECT](https://github.com/eabrahym75/MERN-store)
 
-- 🌱 I’m currently learning **Machine Learning, Docker and Terrafrorm**
+- 🌱 I’m currently learning **Machine Learning Deployment, Docker and Terrafrorm**
 
 - 👨‍💻 All of my projects are available at [github.com/eabrahym75](github.com/eabrahym75)
 
