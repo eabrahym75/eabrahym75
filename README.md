@@ -1,22 +1,21 @@
 ## Welcome
 <h1 align="center">Hi 👋, I'm Ibraheem Ayantola</h1>
-<h3 align="center">A passionate DevOps Engineer from Nigeria</h3>
+<h3 align="center">A passionate MLOps Engineer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/eabrahym75" target="blank"><img src="https://img.shields.io/twitter/follow/eabrahym75?logo=twitter&style=for-the-badge" alt="eabrahym75" /></a> </p>
 
 - 🔭 I’m currently working on [MERN PROJECT](https://github.com/eabrahym75/MERN-store)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Terrafrorm**
+- 🌱 I’m currently learning **Machine Learning, Docker and Terrafrorm**
 
 - 👨‍💻 All of my projects are available at [github.com/eabrahym75](github.com/eabrahym75)
 
-- 📝 I regularly write articles on [https://medium.com/@ayantolaibraheemkehinde](https://medium.com/@ayantolaibraheemkehinde)
+- 📝 I regularly write articles on [Substack](https://shorturl.at/KEjsk)
 
 - 💬 Ask me about **IAC, Cloud Computing.**
 
 - 📫 How to reach me **ayantolaibraheemkehinde@gmail.com**
 
-- 📄 Know about my experiences [https://eabrahym75.github.io/Ibraheem-Ayantola-Website/](https://eabrahym75.github.io/Ibraheem-Ayantola-Website/)
 
 - ⚡ Fun fact **I think I'm funny.**
 
