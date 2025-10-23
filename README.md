@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/eabrahym75" target="blank"><img src="https://img.shields.io/twitter/follow/eabrahym75?logo=twitter&style=for-the-badge" alt="eabrahym75" /></a> </p>
 
-- 🔭 I’m currently working on [MERN PROJECT](https://github.com/eabrahym75/MERN-store)
-
-- 🌱 I’m currently learning **Machine Learning Deployment, Docker and Terrafrorm**
+- 🌱 I’m currently learning **Machine Learning, Testing and Deployment.**
 
 - 👨‍💻 All of my projects are available at [github.com/eabrahym75](github.com/eabrahym75)
 
